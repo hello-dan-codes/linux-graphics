@@ -77,6 +77,7 @@
 
 Name:           %{package_name}
 Summary:        Mesa 3D Graphics Library, git version
+Epoch:          1
 Version:        %{version_string}
 Release:        0.3%{?gitrel}%{?dist}
 
